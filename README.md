@@ -71,10 +71,6 @@ so_pipeline/
 ├── src/
 │ └── main.cpp
 │
-├── report/
-│ └── (documentación final en PDF)
-│
-└── diagrams/
 ---
 ## Objetivo Académico
 
